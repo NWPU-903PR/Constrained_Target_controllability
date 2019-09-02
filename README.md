@@ -11,7 +11,7 @@ This package includes Matlab scripts and several datasets for demo of CTC approa
 (3) C: target control nodes
 (d)  The output datasets include:
 The sample-specific driver profiles by using CTC；
-For PNC, the first colunm is the name of predicted driver nodes£¬the second colunm is the consensus module; The third colunm is the number of controlled target nodes; 
+For CTC, the first colunm is the name of predicted driver nodes£¬the second colunm is the consensus module; The third colunm is the number of controlled target nodes; 
 (e) As a demo, users can directly run main_CTC.m in Matlab. We choose a simple network as a test case in our demo. This package has been tested in different computer environments as: Window 7 or above; Matlab 2014 or above.
 (f) When users analyzed yourself new data, please:
    (1) Prepare input datasets as introduced in (c).
